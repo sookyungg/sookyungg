@@ -13,8 +13,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-  
-
-    
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white"></a>
+      
 </p>
 
