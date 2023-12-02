@@ -20,7 +20,7 @@
   <li><b>Polqa</b></a> - 인터렉티브 컨텐츠와 함께하는 음성대화 플랫폼 (캡스톤 디자인I, SGU+ 창업동아리 선정, 서강융합기술경진대회 우수상)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
   <li><a href="https://github.com/Piro17-Project-Birthday/Piro17-Project-Birthday">
     <b>추카포카</b></a> - 어색한 사이 축하의 마음을 전하는 서비스 (피로그래밍 최종 프로젝트)</a> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-sqaure&logo=django&logoColor=white"> 
-  <li><b>걷는사이</b></a> - 우리 주위의 예술과 자연으로 안내해주는 산책 플랫폼 (SGU+ 창업동아리 선정, 2023 아트코리아랩 최우수상)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
+  <li><b>걷는사이</b></a> - 우리 주위의 예술과 자연으로 안내해주는 산책 플랫폼 (2023 아트코리아랩 최우수상)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
   <li><a href="https://github.com/Team-Plu/Plu_Server"><b>Plu</b></a> - 🔥💧다양한 가치관을 공유하는 Plu☁️🪨 (사이드 프로젝트, 진행중)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
   
 </ul>
