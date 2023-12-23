@@ -17,11 +17,11 @@ Sogang Univ, Psychology / Computer Science and Engineering
 #### Project
 
 <ul>
-  <li><a href="https://github.com/gosopt-LionHeart/LionHeart-Server-Appjam"><b>라이온하트</b></a> - 하루 10분, 좋은 아빠가 되는 방법 (32th SOPT Appjam 우수상)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
-  <li><b>Polqa</b></a> - 인터렉티브 컨텐츠와 함께하는 음성대화 플랫폼 (서강융합기술경진대회 우수상)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
+  <li><a href="https://github.com/gosopt-LionHeart/LionHeart-Server-Appjam"><b>라이온하트</b></a> - 하루 10분, 좋은 아빠가 되는 방법 (32th SOPT Appjam)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
+  <li><b>Polqa</b></a> - 인터렉티브 컨텐츠와 함께하는 음성대화 플랫폼 (서강융합기술경진대회)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
   <li><a href="https://github.com/Piro17-Project-Birthday/Piro17-Project-Birthday">
     <b>추카포카</b></a> - 어색한 사이 축하의 마음을 전하는 서비스 (피로그래밍 최종 프로젝트)</a> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-sqaure&logo=django&logoColor=white"> 
-  <li><b>걷는사이</b></a> - 우리 주위의 예술과 자연으로 안내해주는 산책 플랫폼 (2023 아트코리아랩 최우수상)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
+  <li><b>걷는사이</b></a> - 우리 주위의 예술과 자연으로 안내해주는 산책 플랫폼 (2023 아트코리아랩)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
   <li><a href="https://github.com/Team-Plu/Plu_Server"><b>Plu</b></a> - 🔥💧다양한 가치관을 공유하는 Plu☁️🪨 (사이드 프로젝트, 진행중)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
   
 </ul>
@@ -31,7 +31,7 @@ Sogang Univ, Psychology / Computer Science and Engineering
 #### Experience
 <ul>
   
-  <li> <b>SOPT 32th Server Part</b>&nbsp;(2023.03 ~ 2023.07)
+  <li> <b>SOPT 32th Server Part </b>&nbsp;(2023.03 ~ 2023.07)
   <li> <b>Pirograming 17th, 18th 운영진 </b>&nbsp;(2022.07 ~ 2023.02)
 <!--   <li> <b>구글 머신러닝 부트캠프</b>&nbsp;(2023.09 ~ 2023.11) -->
 <!--   <li> <b>블록체인 연구실 BaSE Lab 학부연구생</b>&nbsp;(2022.09 ~ 2023.01) -->
