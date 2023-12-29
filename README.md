@@ -31,7 +31,7 @@ Sogang Univ, Psychology / Computer Science and Engineering
 #### Experience
 <ul>
   
-  <li> <b>SOPT 32th Server Part </b>&nbsp;(2023.03 ~ 2023.07)
+  <li> <b>SOPT 32nd Server Part </b>&nbsp;(2023.03 ~ 2023.07)
   <li> <b>Pirograming 17th, 18th 운영진 </b>&nbsp;(2022.07 ~ 2023.02)
 <!--   <li> <b>구글 머신러닝 부트캠프</b>&nbsp;(2023.09 ~ 2023.11) -->
 <!--   <li> <b>블록체인 연구실 BaSE Lab 학부연구생</b>&nbsp;(2022.09 ~ 2023.01) -->
