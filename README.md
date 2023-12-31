@@ -17,7 +17,7 @@ Sogang Univ, Psychology / Computer Science and Engineering
 #### Project
 
 <ul>
-  <li><a href="https://github.com/gosopt-LionHeart/LionHeart-Server-Appjam"><b>라이온하트</b></a> - 하루 10분, 좋은 아빠가 되는 방법 (32th SOPT Appjam)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
+  <li><a href="https://github.com/gosopt-LionHeart/LionHeart-Server-Appjam"><b>라이온하트</b></a> - 하루 10분, 좋은 아빠가 되는 방법 (32nd SOPT Appjam)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
   <li><b>Polqa</b></a> - 인터렉티브 컨텐츠와 함께하는 음성대화 플랫폼 (서강융합기술경진대회)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
   <li><a href="https://github.com/Piro17-Project-Birthday/Piro17-Project-Birthday">
     <b>추카포카</b></a> - 어색한 사이 축하의 마음을 전하는 서비스 (피로그래밍 최종 프로젝트)</a> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-sqaure&logo=django&logoColor=white"> 
