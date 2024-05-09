@@ -3,9 +3,9 @@
 Sogang Univ, Psychology & Computer Science and Engineering
 
 #### Interest
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-sqaure&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-sqaure&logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-sqaure&logo=Spring Boot&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-sqaure&logo=Redis&logoColor=white">
 <br>
