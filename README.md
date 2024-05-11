@@ -18,7 +18,7 @@ Sogang Univ, Psychology & Computer Science and Engineering
 #### Project
 
 <ul>
-	<li><a href="https://github.com/Team-Plu/Plu_Server"><b>Plu</b></a> - 🔥💧다양한 가치관을 공유하는 Plu☁️🪨 (사이드 프로젝트, 진행중)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
+	<li><a href="https://github.com/Team-Plu/Plu_Server"><b>Plu</b></a> - 🔥💧다양한 가치관을 공유하는 공유일기 플랫폼, Plu☁️🪨 (사이드 프로젝트, 진행중)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
   <li><a href="https://github.com/sookyungg/LionHeart-Server"><b>라이온하트</b></a> - 하루 10분, 좋은 아빠가 되는 방법 (32nd SOPT Appjam, 우수)</a> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-sqaure&logo=Springboot&logoColor=white">
   <li><b>Polqa</b></a> - 인터렉티브 컨텐츠와 함께하는 음성대화 플랫폼 (서강융합기술경진대회, 우수)</a> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-sqaure&logo=NestJS&logoColor=white">
   <li><a href="https://github.com/sookyungg/chookapoka">
